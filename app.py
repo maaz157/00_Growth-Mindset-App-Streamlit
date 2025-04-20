@@ -50,5 +50,5 @@ if st.button('Celebrate My Achievement'):
 st.write("- - -")
 st.write("🌟 Keep believing in yourself. Growth is a journey, not a destination! 🌻")
 
-st.write("** Made by Muhammad Farhan**")
-st.write("Connect With Me On [LinkedIn](https://www.linkedin.com/in/farhan-saeed-56a855296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)")
+st.write("** Made by Maaz Zameer**")
+st.write("Connect With Me On [LinkedIn](https://www.linkedin.com/in/maaz-zameer-322286361?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)")
